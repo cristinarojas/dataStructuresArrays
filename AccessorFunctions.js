@@ -17,3 +17,6 @@ if (position > 0) {
 
 // Si el elemento se encuentra varias veces en el array entonces indexOf solo
 // retornara la primer posicion donde se encontro el elemento buscado.
+
+// lastIndexOf encuentra la ultima posicion donde se encontro el elemento
+var position = names.lastIndexOf(found); // se encontro el nombre en la posicion 5
